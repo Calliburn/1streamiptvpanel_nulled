@@ -57,3 +57,11 @@ Follow the prompts provided by the script, entering the IP address of your main 
 ## Info:
 After the script execution completes, you may continue with the LB installation process via your control panel.
 Remember to follow each step precisely, as deviations may lead to installation issues.
+
+![image](https://github.com/Calliburn/1streamiptvpanel_nulled/assets/133517899/d3f1f1b7-ae57-4882-aca8-807f2d499659)
+
+![image](https://github.com/Calliburn/1streamiptvpanel_nulled/assets/133517899/49c32e79-ac2c-4a83-b309-0798c9a11c46)
+
+![image](https://github.com/Calliburn/1streamiptvpanel_nulled/assets/133517899/2da41bdc-e4e3-4659-a5b1-082cf9307c0a)
+
+
