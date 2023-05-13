@@ -23,7 +23,7 @@ For Production use Server should be strong and reliable.
 
 ## Main Sever Installation Instructions
 
-1. Download and unzip file (it's a selfextractor)
+1. [Download](https://mega.nz/file/FHcWDSwZ#3QKWKuAcyUAS-zzkGAN9-pRnwHb-msH4fqnWycbuwG0) and unzip file (it's a selfextractor)
 2. Upload the install_main.sh to your server root folder
 3. Run following commands
 ```sh
